@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "484354221019",
+    "project_id": "zena-e8d15",
+    "storage_bucket": "zena-e8d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484354221019:android:6acbb5ce19076d3a093dfe",
+        "android_client_info": {
+          "package_name": "P.package"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484354221019-hhh2j4n5tonnj0kcf67dqlsgnvrmaj2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYewFctfomrdbSvRCxm2CNSRRAy-DV3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484354221019-hhh2j4n5tonnj0kcf67dqlsgnvrmaj2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484354221019-75eua0dlsiecep3922gmnqbsq37a3ume.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zl.demo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484354221019:android:d00017efbfeb59c1093dfe",
+        "android_client_info": {
+          "package_name": "com.zl.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484354221019-hhh2j4n5tonnj0kcf67dqlsgnvrmaj2b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYewFctfomrdbSvRCxm2CNSRRAy-DV3f4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484354221019-hhh2j4n5tonnj0kcf67dqlsgnvrmaj2b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484354221019-75eua0dlsiecep3922gmnqbsq37a3ume.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zl.demo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
